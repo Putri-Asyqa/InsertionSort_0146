@@ -20,7 +20,7 @@ void input(){ // procedure input
 cout << endl;
     cout << "===============================";
     cout << "\n=====Masukan Element Array=====";
-    cout << "\n===============================";
+    cout << "\n===============================" << endl;
 
     for(int i = 0; i < n; i++){
         cout << "Data ke- " << (i+1) << " : ";
